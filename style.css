@@ -1,0 +1,27 @@
+body{
+    background-color: blueviolet;
+    margin: auto;
+}
+.container{
+    text-align: center;
+    background-color: orange;
+   
+    padding: 5rem;
+}
+.container2{
+    text-align: center;
+    background-color: red;
+    padding: 5rem;
+    font-size: large;
+    font-weight: bolder;
+}
+.check{
+    padding: 1rem;
+    border: solid;
+    border-radius: 1rem;
+}
+#inputdate{
+    border: solid;
+    padding: 1rem;
+    border-radius: 1rem;
+}
